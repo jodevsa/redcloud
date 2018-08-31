@@ -1,0 +1,32 @@
+#header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 40px;
+    background: #3F5BA6;
+    box-sizing: border-box;
+    padding: 0px 0px 0px 20px;
+    color: #FFF;
+    font-size: 14px;
+}
+
+.deploy-button {
+    background: #7EC7BA;
+    color: #eee !important;
+}
+
+#header .button {
+    min-width: 20px;
+    text-align: center;
+    line-height: 40px;
+    display: inline-block;
+    font-size: 20px;
+    padding: 0px 12px;
+    text-decoration: none;
+    color: #C7C7C7;
+    margin: auto 5px;
+    vertical-align: middle;
+    border-left: 2px solid #3F5BA6;
+    border-right: 2px solid #3F5BA6;
+}
